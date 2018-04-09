@@ -1,6 +1,6 @@
 # Custom HTTP Clients for the Twilio PHP Helper Library
 
-Use the twilio-php helper library with a proxy server
+Use the twilio-php helper library with a proxy server.
 
 ## Usage
 
