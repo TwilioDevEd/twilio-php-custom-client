@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "twilio/sdk": "^5.16",
+        "twilio/sdk": "^6.18",
         "vlucas/phpdotenv": "^2.4"
     },
     "minimum-stability": "stable"
